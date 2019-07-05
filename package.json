@@ -1,0 +1,20 @@
+{
+  "name": "sentimentanalysis",
+  "version": "1.0.0",
+  "description": "Write unit test using proxyquire",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "proxyquire": "^2.1.0",
+    "request": "^2.88.0",
+    "sinon": "^7.3.2"
+  }
+}
